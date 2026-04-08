@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Bruce Kutler Electric",
+    "phone": "+14026513156",
+    "category": "electrician",
+    "city": "Omaha",
+    "state": "NE"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Omaha's Trusted Electricians",
+      "heroSubline": "Powering Omaha homes and businesses for over a decade. Get reliable electrical solutions, guaranteed.",
+      "aboutTitle": "Your Omaha Electrical Experts",
+      "aboutText": [
+        "Bruce Kutler Electric started with a simple mission: to provide honest, reliable electrical services to our neighbors in Omaha. From fixing a flickering light to wiring a new home, we treat every project with the same dedication and attention to detail.",
+        "We believe in clear communication, upfront pricing, and doing the job right the first time. Our team is comprised of licensed, experienced electricians who are committed to exceeding your expectations. We prioritize safety and quality in every aspect of our work.",
+        "As a locally owned and operated business, we're invested in the Omaha community. We actively support local initiatives and strive to be a responsible and ethical company. When you choose Bruce Kutler Electric, you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Licensed and highly trained electricians with years of experience in the Omaha area."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. Get a clear and detailed estimate before we start any work."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. We're available around the clock to handle urgent issues."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Need an Omaha Electrician?",
+      "ctaSubline": "Call Bruce Kutler Electric today for fast, reliable service. Get a free quote now!"
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair",
+        "shortDescription": "Fast, reliable electrical repair services for Omaha homes and businesses.",
+        "description": "From flickering lights and faulty outlets to sparking wires and tripped breakers, electrical problems can be frustrating and dangerous. Bruce Kutler Electric provides comprehensive electrical repair services to address any issue, big or small. We understand the urgency of electrical problems, especially given Omaha's severe weather patterns that can exacerbate existing issues. Our experienced electricians will diagnose the problem accurately and provide efficient, effective repairs to restore safety and functionality to your electrical system.\n\nWe handle all types of electrical repairs, including outlet and switch replacements, wiring repairs, circuit breaker replacements, lighting repairs, and more. We use only high-quality materials and follow all safety codes to ensure lasting results. We also offer 24/7 emergency repair services for urgent situations that require immediate attention, particularly during severe weather events common in Omaha.\n\nDon't let electrical problems disrupt your life or put your home at risk. Contact Bruce Kutler Electric today for prompt and professional electrical repair services. We'll get your electrical system back in top shape, ensuring the safety and comfort of your home or business.",
+        "process": [
+          "Step 1: Contact us to describe the electrical issue you're experiencing.",
+          "Step 2: We'll schedule a convenient appointment for an electrician to assess the problem.",
+          "Step 3: Our electrician will diagnose the issue and provide a detailed estimate for the repair.",
+          "Step 4: Upon your approval, we'll complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Accurate diagnosis of electrical problems",
+          "High-quality repairs using durable materials",
+          "24/7 emergency repair availability"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We offer 24/7 emergency service and strive to respond to urgent calls as quickly as possible, often within the hour, depending on your location in Omaha and our current workload."
+          },
+          {
+            "question": "What are the signs that I need electrical repair?",
+            "answer": "Common signs include flickering lights, frequently tripped breakers, sparking outlets, burning smells, and loose outlets. If you notice any of these issues, it's important to call a qualified electrician immediately."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are licensed, bonded, and insured for your protection. We adhere to the highest safety standards and regulations."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installation",
+        "name": "Electrical Installation",
+        "shortDescription": "Professional electrical installation services for new construction and remodeling projects.",
+        "description": "Whether you're building a new home in a growing Omaha suburb or remodeling your existing Dundee bungalow, proper electrical installation is crucial for safety, functionality, and code compliance. Bruce Kutler Electric provides comprehensive electrical installation services for residential and commercial properties. We work closely with homeowners, builders, and contractors to ensure that your electrical system meets your specific needs and adheres to all local regulations.\n\nOur electrical installation services include wiring new homes, installing lighting fixtures, adding outlets and switches, upgrading electrical panels, installing dedicated circuits for appliances, and more. We use only high-quality materials and follow best practices to ensure lasting performance and safety. We understand the unique challenges posed by Omaha's climate, including the need for robust grounding systems to protect against lightning strikes during severe thunderstorms.\n\nFrom planning and design to installation and inspection, Bruce Kutler Electric is your trusted partner for all your electrical installation needs. We'll ensure that your electrical system is safe, efficient, and ready to handle the demands of modern living.",
+        "process": [
+          "Step 1: Contact us to discuss your electrical installation needs and project scope.",
+          "Step 2: We'll develop a detailed plan and estimate based on your requirements.",
+          "Step 3: Our experienced electricians will complete the installation efficiently and according to code.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly and safely."
+        ],
+        "benefits": [
+          "Safe and code-compliant installations",
+          "High-quality materials and workmanship",
+          "Customized solutions to meet your specific needs",
+          "Experienced electricians with years of installation expertise"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for electrical installation work?",
+            "answer": "Yes, in most cases, electrical installation work requires a permit from the City of Omaha. We can handle the permit application process for you to ensure compliance with local regulations."
+          },
+          {
+            "question": "How long will the electrical installation take?",
+            "answer": "The duration of the installation depends on the scope and complexity of the project. We'll provide you with a realistic timeline during the planning phase."
+          },
+          {
+            "question": "Can you install energy-efficient lighting?",
+            "answer": "Absolutely. We offer a wide range of energy-efficient lighting options, including LED fixtures, that can help you save money on your energy bills and reduce your carbon footprint."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrade",
+        "name": "Electrical Panel Upgrade",
+        "shortDescription": "Upgrade your electrical panel for increased safety and capacity.",
+        "description": "An outdated or overloaded electrical panel can pose a significant safety hazard to your Omaha home. If your breakers are constantly tripping, you're planning to add new appliances, or your panel is more than 25 years old, it's time for an electrical panel upgrade. Bruce Kutler Electric provides professional electrical panel upgrade services to ensure that your electrical system can safely and reliably handle your power demands.\n\nWe'll assess your current electrical panel and determine the appropriate size and type of panel to meet your needs. We'll then remove your old panel and install a new, code-compliant panel with adequate capacity for your home or business. We understand the importance of proper grounding, especially in Omaha, where lightning strikes are common during summer storms. Our upgrades include surge protection to safeguard your valuable electronics from power surges.\n\nUpgrading your electrical panel not only improves safety but also increases the value of your property. Contact Bruce Kutler Electric today to schedule a consultation and learn more about the benefits of an electrical panel upgrade.",
+        "process": [
+          "Step 1: We'll assess your current electrical panel and power needs.",
+          "Step 2: We'll recommend the appropriate panel upgrade and provide a detailed estimate.",
+          "Step 3: We'll obtain the necessary permits and schedule the upgrade.",
+          "Step 4: Our electricians will safely remove your old panel and install the new one."
+        ],
+        "benefits": [
+          "Improved electrical safety",
+          "Increased electrical capacity",
+          "Enhanced property value",
+          "Protection against power surges"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequently tripping breakers, flickering lights, burning smells, and an outdated panel (over 25 years old)."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "The upgrade typically takes one day to complete, but it may vary depending on the complexity of the installation."
+          },
+          {
+            "question": "Will I need to turn off the power during the upgrade?",
+            "answer": "Yes, we will need to temporarily turn off the power to your home during the upgrade. We'll minimize the downtime as much as possible."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Enhance your home with professional lighting installation services.",
+        "description": "Proper lighting can transform the look and feel of your Omaha home, enhancing its beauty, functionality, and security. Bruce Kutler Electric provides professional lighting installation services for both interior and exterior spaces. Whether you're looking to install recessed lighting in your kitchen, add landscape lighting to your backyard, or upgrade your existing fixtures to energy-efficient LEDs, we can help.\n\nWe offer a wide range of lighting options to suit your style and budget, including recessed lighting, pendant lighting, chandeliers, track lighting, landscape lighting, security lighting, and more. We'll work with you to design a lighting plan that meets your specific needs and preferences, taking into account the unique characteristics of your home and the local environment. Omaha's diverse architecture demands lighting that complements each home's unique style.\n\nOur experienced electricians will ensure that your lighting is installed safely and correctly, following all codes and regulations. We'll also handle the wiring and electrical work, ensuring that your lighting system is reliable and energy-efficient. Upgrade your home with beautiful and functional lighting from Bruce Kutler Electric.",
+        "process": [
+          "Step 1: Consult with us to discuss your lighting needs and preferences.",
+          "Step 2: We'll develop a customized lighting plan and provide a detailed estimate.",
+          "Step 3: Our electricians will install your new lighting fixtures safely and efficiently.",
+          "Step 4: We'll test the lighting system to ensure everything is working properly."
+        ],
+        "benefits": [
+          "Enhanced home aesthetics",
+          "Improved functionality and security",
+          "Energy-efficient lighting options",
+          "Professional installation and wiring"
+        ],
+        "faq": [
+          {
+            "question": "What types of lighting fixtures do you install?",
+            "answer": "We install a wide range of lighting fixtures, including recessed lighting, pendant lighting, chandeliers, track lighting, landscape lighting, and security lighting."
+          },
+          {
+            "question": "Can you help me choose the right lighting for my home?",
+            "answer": "Yes, we can provide expert advice and guidance to help you choose the right lighting fixtures and design a lighting plan that meets your specific needs and preferences."
+          },
+          {
+            "question": "How much does lighting installation cost?",
+            "answer": "The cost of lighting installation varies depending on the scope of the project, the type of fixtures, and the wiring requirements. We'll provide you with a detailed estimate before we start any work."
+          }
+        ]
+      },
+      {
+        "slug": "smart-home-installation",
+        "name": "Smart Home Installation",
+        "shortDescription": "Upgrade to a smarter home with professional smart home device and system installation.",
+        "description": "Transform your Omaha residence into a smart home with Bruce Kutler Electric's expert installation services. We specialize in integrating smart technology seamlessly into your home, providing convenience, energy efficiency, and enhanced security. From smart lighting and thermostats to automated security systems and whole-home audio, we can design and install a customized smart home solution that fits your lifestyle. Considering Omaha's varying temperatures, smart thermostats can provide considerable savings. \n\nOur services include the installation and configuration of smart lighting systems (allowing for remote control and dimming), smart thermostats (for automated temperature control and energy savings), smart security systems (including cameras, doorbells, and alarms), smart entertainment systems, and more. We ensure that all devices are properly connected and integrated, providing a user-friendly experience. We also provide ongoing support and maintenance to keep your smart home running smoothly.\n\nExperience the convenience and benefits of a smart home with Bruce Kutler Electric. Contact us today to schedule a consultation and learn more about our smart home installation services.",
+        "process": [
+          "Step 1: Consultation to assess your smart home needs and preferences.",
+          "Step 2: Design a customized smart home solution and provide a detailed estimate.",
+          "Step 3: Install and configure smart devices and systems.",
+          "Step 4: Provide training and support to ensure you can easily use your new smart home features."
+        ],
+        "benefits": [
+          "Enhanced convenience and control over your home",
+          "Increased energy efficiency and cost savings",
+          "Improved home security and peace of mind",
+          "Seamless integration of smart devices and systems"
+        ],
+        "faq": [
+          {
+            "question": "What smart home devices can you install?",
+            "answer": "We can install a wide range of smart home devices, including smart lighting, thermostats, security systems, entertainment systems, and more."
+          },
+          {
+            "question": "How much does smart home installation cost?",
+            "answer": "The cost of smart home installation varies depending on the scope of the project and the number of devices installed. We'll provide you with a detailed estimate before we start any work."
+          },
+          {
+            "question": "Do I need to have a specific internet provider for smart home devices?",
+            "answer": "Most smart home devices require a reliable internet connection. We can advise you on the best internet options for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Ensure reliable backup power with professional generator installation services.",
+        "description": "Given Omaha's susceptibility to severe weather events, including blizzards and thunderstorms, having a reliable backup generator is essential for maintaining power during outages. Bruce Kutler Electric provides professional generator installation services to ensure that your home or business remains powered during emergencies. We offer a range of generator options, including portable generators and whole-house backup generators, to meet your specific needs and budget.\n\nOur services include assessing your power requirements, selecting the appropriate generator size and type, installing the generator according to code, and providing ongoing maintenance and support. We ensure that your generator is properly connected to your electrical system and that it's ready to automatically kick in when the power goes out. We also handle all necessary permits and inspections.\n\nDon't be left in the dark during the next power outage. Contact Bruce Kutler Electric today to learn more about our generator installation services and ensure reliable backup power for your home or business.",
+        "process": [
+          "Step 1: Assess your power requirements and recommend the appropriate generator size and type.",
+          "Step 2: Obtain the necessary permits and schedule the installation.",
+          "Step 3: Install the generator according to code and connect it to your electrical system.",
+          "Step 4: Test the generator to ensure it's working properly and provide ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Reliable backup power during outages",
+          "Protection against power surges",
+          "Peace of mind knowing your home or business will remain powered",
+          "Professional installation and maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of the generator you need depends on your power requirements. We can assess your needs and recommend the appropriate generator size."
+          },
+          {
+            "question": "Do I need a permit for generator installation?",
+            "answer": "Yes, generator installation typically requires a permit. We can handle the permit application process for you."
+          },
+          {
+            "question": "How often should I maintain my generator?",
+            "answer": "We recommend annual maintenance to ensure your generator is working properly and reliably."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Omaha",
+        "slug": "omaha-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric is proud to provide comprehensive electrical services to the residents and businesses of Omaha, Nebraska. From routine maintenance and repairs to complex installations and upgrades, our team of licensed and experienced electricians is equipped to handle any electrical project, big or small. We understand the unique electrical needs of Omaha homes and businesses, and we are committed to delivering safe, reliable, and efficient solutions.\n\nWe offer a full range of electrical services in Omaha, including wiring, lighting, panel upgrades, surge protection, and more. Our goal is to ensure the safety and functionality of your electrical system, while providing exceptional customer service and competitive pricing. Bruce Kutler Electric is dedicated to serving the Omaha community with integrity and professionalism.",
+        "localContext": "Omaha, the largest city in Nebraska, is a vibrant hub with a mix of historic neighborhoods and modern developments, each presenting unique electrical needs.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Council Bluffs",
+          "Papillion"
+        ]
+      },
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric extends its expert electrical services to Bellevue, Nebraska, providing homeowners and businesses with top-notch solutions tailored to their specific needs. We are committed to ensuring the safety and efficiency of your electrical systems, whether it's a simple repair or a complete rewiring project. Our licensed electricians are well-versed in the electrical codes and regulations specific to Bellevue.\n\nWe understand the importance of reliable electrical service in Bellevue, and we strive to deliver prompt, professional, and affordable solutions. From troubleshooting electrical issues to installing new lighting and outlets, Bruce Kutler Electric is your trusted partner for all your electrical needs in Bellevue.",
+        "localContext": "Bellevue, known for its close proximity to Offutt Air Force Base, features a mix of residential and commercial properties with varying electrical demands.",
+        "nearbyAreas": [
+          "Omaha",
+          "Papillion",
+          "La Vista"
+        ]
+      },
+      {
+        "city": "Papillion",
+        "slug": "papillion-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric is delighted to serve the rapidly growing community of Papillion, Nebraska, with our comprehensive electrical services. We understand the unique needs of Papillion's residential and commercial properties, and we are dedicated to providing safe, reliable, and efficient electrical solutions. Our experienced electricians are equipped to handle any project, from minor repairs to major installations.\n\nWe offer a wide range of electrical services in Papillion, including wiring, lighting, panel upgrades, surge protection, and more. Bruce Kutler Electric is committed to delivering exceptional customer service and competitive pricing to the residents and businesses of Papillion. We are your trusted partner for all your electrical needs.",
+        "localContext": "Papillion, a family-friendly city, features many new constructions and established homes, each with unique electrical requirements.",
+        "nearbyAreas": [
+          "Bellevue",
+          "La Vista",
+          "Gretna"
+        ]
+      },
+      {
+        "city": "La Vista",
+        "slug": "la-vista-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric proudly serves the residents and businesses of La Vista, Nebraska, with our expert electrical services. We are committed to providing safe, reliable, and efficient solutions to meet all your electrical needs. Whether you need a simple repair or a complex installation, our team of licensed and experienced electricians is here to help.\n\nWe offer a full range of electrical services in La Vista, including wiring, lighting, panel upgrades, surge protection, and more. Our goal is to ensure the safety and functionality of your electrical system, while providing exceptional customer service and competitive pricing. Bruce Kutler Electric is dedicated to serving the La Vista community with integrity and professionalism.",
+        "localContext": "La Vista, a vibrant city with a growing business sector, requires dependable electrical services for both residential and commercial properties.",
+        "nearbyAreas": [
+          "Papillion",
+          "Ralston",
+          "Omaha"
+        ]
+      },
+      {
+        "city": "Council Bluffs",
+        "slug": "council-bluffs-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric extends its service area to Council Bluffs, Iowa, providing expert electrical services to homes and businesses across the Missouri River. We are dedicated to ensuring the safety and efficiency of your electrical systems with prompt and reliable service. Our team is familiar with local codes and regulations, ensuring all work is up to standard.\n\nFrom simple repairs and maintenance to complete electrical installations, Bruce Kutler Electric offers a comprehensive range of services. We take pride in delivering exceptional customer service and building lasting relationships with our clients in Council Bluffs. Trust us to power your home or business with expertise and care.",
+        "localContext": "Council Bluffs, a historic city with a mix of older and newer construction, presents diverse electrical needs that Bruce Kutler Electric is equipped to handle.",
+        "nearbyAreas": [
+          "Omaha",
+          "Carter Lake",
+          "Glenwood"
+        ]
+      },
+      {
+        "city": "Gretna",
+        "slug": "gretna-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric is pleased to offer our electrical services to the growing community of Gretna, Nebraska. With its rapid development and increasing number of homes and businesses, Gretna requires a reliable and experienced electrical contractor. We are committed to providing top-quality service and ensuring the safety and efficiency of your electrical systems.\n\nOur services in Gretna include everything from new construction wiring to electrical repairs and upgrades. We understand the importance of having a dependable electrical system, and we strive to exceed our customers' expectations with every project. Bruce Kutler Electric is your trusted partner for all your electrical needs in Gretna.",
+        "localContext": "Gretna, known for its outlet mall and growing residential areas, requires reliable electrical services to support its expanding community.",
+        "nearbyAreas": [
+          "Papillion",
+          "Elkhorn",
+          "Waterloo"
+        ]
+      },
+      {
+        "city": "Elkhorn",
+        "slug": "elkhorn-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric is proud to serve the residents and businesses of Elkhorn, Nebraska, with our comprehensive electrical services. As a thriving community with a mix of residential and commercial properties, Elkhorn demands reliable and efficient electrical solutions. We are committed to providing top-notch service and ensuring the safety and functionality of your electrical systems.\n\nWe offer a full range of electrical services in Elkhorn, including wiring, lighting, panel upgrades, surge protection, and more. Our goal is to provide exceptional customer service and competitive pricing to the residents and businesses of Elkhorn. Bruce Kutler Electric is your trusted partner for all your electrical needs.",
+        "localContext": "Elkhorn, a growing suburb of Omaha, features a mix of new developments and established neighborhoods, each with specific electrical requirements.",
+        "nearbyAreas": [
+          "Omaha",
+          "Bennington",
+          "Gretna"
+        ]
+      },
+      {
+        "city": "Bennington",
+        "slug": "bennington-ne",
+        "state": "NE",
+        "content": "Bruce Kutler Electric extends its services to Bennington, Nebraska, providing expert electrical solutions to this growing community. We understand the electrical needs of both residential and commercial properties in Bennington and are committed to delivering safe, reliable, and efficient services.\n\nWhether you require new wiring, electrical repairs, or system upgrades, our experienced team is equipped to handle any project with professionalism and expertise. We prioritize customer satisfaction and strive to exceed expectations with every service we provide. Bruce Kutler Electric is your trusted partner for all your electrical needs in Bennington.",
+        "localContext": "Bennington, a rapidly expanding town near Omaha, relies on dependable electrical services to support its growing residential and commercial sectors.",
+        "nearbyAreas": [
+          "Elkhorn",
+          "Waterloo",
+          "Omaha"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Bruce Kutler Electric upgraded our electrical panel in our older Dundee home. The team was professional, efficient, and explained everything clearly. We haven't had any tripped breakers since, even with our new appliances. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired Bruce Kutler Electric to install recessed lighting in our kitchen. They did a great job, and the new lighting looks fantastic. There was a small delay due to a parts shortage, but they communicated well and kept us informed.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "Our power went out during a thunderstorm, and Bruce Kutler Electric was able to come out quickly and fix the problem. The electrician was knowledgeable and courteous. We were grateful for their prompt service!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Smart Home Installation",
+        "text": "Bruce Kutler Electric transformed our home into a smart home. They installed smart lighting, a smart thermostat, and a security system. The installation was seamless, and they took the time to show us how to use everything. Highly recommended! ",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Generator Installation",
+        "text": "We had a whole-house generator installed by Bruce Kutler Electric. The installation process was smooth, and they explained everything thoroughly. It gives us peace of mind knowing we'll have power during storms.",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "I had a faulty outlet in my Aksarben home that was sparking. Bruce Kutler Electric sent someone out the same day, and they quickly and safely fixed the problem. Very professional and reasonably priced.",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Omaha Electrician | Bruce Kutler Electric",
+        "description": "Reliable electrical services in Omaha, NE. Repairs, installations, panel upgrades, and more. Call Bruce Kutler Electric today!"
+      },
+      "about": {
+        "title": "About Bruce Kutler Electric | Omaha, NE",
+        "description": "Learn about Bruce Kutler Electric, Omaha's trusted electricians. Experienced, reliable, and committed to customer satisfaction."
+      },
+      "services": {
+        "title": "Electrical Services | Omaha, NE",
+        "description": "Comprehensive electrical services in Omaha, NE. Repairs, installations, panel upgrades, lighting, and more. Contact us for a free quote!"
+      },
+      "contact": {
+        "title": "Contact Bruce Kutler Electric | Omaha, NE",
+        "description": "Contact Bruce Kutler Electric for all your electrical needs in Omaha, NE. Call us today for fast, reliable service!"
+      },
+      "reviews": {
+        "title": "Bruce Kutler Electric Reviews | Omaha, NE",
+        "description": "Read reviews of Bruce Kutler Electric. See why Omaha residents trust us for their electrical needs."
+      },
+      "service-areas": {
+        "title": "Service Areas | Bruce Kutler Electric",
+        "description": "Bruce Kutler Electric provides electrical services in Omaha and surrounding areas. Find out if we serve your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installation": "/images/service-electrical-installation.webp",
+      "electrical-panel-upgrade": "/images/service-electrical-panel-upgrade.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "smart-home-installation": "/images/service-smart-home-installation.webp",
+      "generator-installation": "/images/service-generator-installation.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installation": {
+        "src": "/images/service-electrical-installation.webp",
+        "srcset": "/images/service-electrical-installation-400w.webp 400w, /images/service-electrical-installation-800w.webp 800w, /images/service-electrical-installation-1200w.webp 1200w, /images/service-electrical-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrade": {
+        "src": "/images/service-electrical-panel-upgrade.webp",
+        "srcset": "/images/service-electrical-panel-upgrade-400w.webp 400w, /images/service-electrical-panel-upgrade-800w.webp 800w, /images/service-electrical-panel-upgrade-1200w.webp 1200w, /images/service-electrical-panel-upgrade.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "smart-home-installation": {
+        "src": "/images/service-smart-home-installation.webp",
+        "srcset": "/images/service-smart-home-installation-400w.webp 400w, /images/service-smart-home-installation-800w.webp 800w, /images/service-smart-home-installation-1200w.webp 1200w, /images/service-smart-home-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
